@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkrishna094" alt="rohitkrishna094" /></a> </p>
 
-- 🔭 I’m currently working on [Code-Collab](https://github.com/rohitkrishna094/code-collab)
+- 🔭 I’m currently working on [Code-Collab](https://github.com/rohitkrishna094/code-collab) and [leetcode-api](https://github.com/codingsnack/leetcode-api)
 
 
 <h3 align="left">Languages and Tools:</h3>
